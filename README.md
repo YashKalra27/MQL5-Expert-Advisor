@@ -6,14 +6,10 @@ An innovative, fully automated Expert Advisor coded end-to-end in **MQL5**, a do
 
 ## 📈 Key Highlights
 
-- **Backtested on 2024 market data**, the EA achieved an exceptional **400%+ annual return**, setting a benchmark no discretionary trader can consistently match.
-<br>
-- **Ultra-tight trailing stop loss** ensures profits are protected the moment a trade goes favorably, dramatically improving win rates and controlling drawdowns.
-<br>
-- Positions, Stop Loss, and Take Profit levels dynamically adjust as percentages of total capital and asset value — adapting to market volatility in real time.
-<br>
-- Developed entirely in **MQL5**, showcasing real-world **C++** proficiency applied to high-stakes algorithmic trading.
-<br>
+- **Backtested on 2024 market data**, the EA achieved an exceptional **400%+ annual return**, setting a benchmark no discretionary trader can consistently match.<br>
+- **Ultra-tight trailing stop loss** ensures profits are protected the moment a trade goes favorably, dramatically improving win rates and controlling drawdowns.<br>
+- Positions, Stop Loss, and Take Profit levels dynamically adjust as percentages of total capital and asset value — adapting to market volatility in real time.<br>
+- Developed entirely in **MQL5**, showcasing real-world **C++** proficiency applied to high-stakes algorithmic trading.<br>
 - Fully automated — zero human intervention required — ensuring unwavering discipline and consistency.
 
 ---
